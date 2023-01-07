@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kartik-Pal
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Front-End Web Development 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Website Building
 - 📫 How to reach me 

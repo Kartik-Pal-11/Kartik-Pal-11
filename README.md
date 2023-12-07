@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kartik-Pal
-- 👀 I’m interested in Front-End Web Development 
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Full Stack Web Development 
+- 🌱 I’m currently learning JavaScript's Framework
 - 💞️ I’m looking to collaborate on Website Building
 - 📫 How to reach me 
 - LinkedIn: https://www.linkedin.com/in/kartik-pal-455799208
